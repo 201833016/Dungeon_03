@@ -1,0 +1,45 @@
+어플 이미지
+https://www.flaticon.com/kr/free-icon/gun_1140585
+
+[시작화면]
+동굴 이미지
+https://www.pngegg.com/ko/png-iuvwi
+
+UI 이미지
+https://assetstore.unity.com/packages/2d/gui/fantasy-wooden-gui-free-103811
+
+폰트
+https://maplestory.nexon.com/Media/Font
+
+[게임화면]
+플레이어 캐릭터
+https://assetstore.unity.com/packages/2d/characters/2d-character-astronaut-182650
+
+구조물
+https://assetstore.unity.com/packages/2d/environments/pixel-art-top-down-basic-187605
+
+카드 이미지
+https://assetstore.unity.com/packages/2d/gui/2d-modular-cards-kit-demo-227623
+
+몬스터 이미지
+https://assetstore.unity.com/packages/2d/environments/scifi-cultistspack-211371
+
+아이템 이미지
+https://assetstore.unity.com/packages/2d/gui/icons/2d-pixel-art-icons-fruits-258332
+
+폭발 파티클
+https://assetstore.unity.com/packages/vfx/particles/fire-explosions/free-2d-impact-fx-201222
+
+바닥 타일 마테리얼
+https://assetstore.unity.com/packages/2d/textures-materials/floors/tileable-pack-01-49278
+
+[음원]
+[저작자] Smilegate RPG
+[출처] LOST ARK O.S.T – 어비스 레이드 아르고스 BGM (ABYSS RAID ARGOS BGM)
+[출처] LOST ARK O.S.T – 16_알비온의 분노 (Albion's Rage)
+[출처] LOST ARK O.S.T – 14_페이튼 (Faten) 
+[출처] LOST ARK O.S.T – Phase 1.악몽의 그늘, The shadow of nightmare(몽환의 아스탤지어)
+[출처] LOST ARK O.S.T – 습격받은 엘리야베크 (Attacked Elijavak)
+[출처] LOST ARK O.S.T – 라우리엘 1페이즈 (Lauriel Phase 1)
+[출처] LOST ARK O.S.T – 마수군단장 발탄 (Commander of Beast Valtan)
+[출처] LOST ARK O.S.T – 질병군단장 일리아칸 (Plague Legion Commander Illiakan)
