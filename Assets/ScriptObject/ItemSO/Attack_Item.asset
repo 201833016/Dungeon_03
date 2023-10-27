@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 356f0efaa6a22c2498c76bceb74f0f45, type: 3}
+  m_Name: Attack_Item
+  m_EditorClassIdentifier: 
+  <isStackable>k__BackingField: 1
+  <maxStackSize>k__BackingField: 9
+  <itemName>k__BackingField: "\uACF5\uACA9\uB825\uC758 \uCF54\uCF54\uB11B"
+  <itemSprite>k__BackingField: {fileID: -1586687842, guid: a03c2610221b14940b818fb271b448fa,
+    type: 3}
+  <itemDescription>k__BackingField: "10\uCD08 \uB3D9\uC548 \uACF5\uACA9\uB825 [2]\uBC30
+    \uC99D\uAC00."
+  <defaultParameterList>k__BackingField: []
+  <item_type>k__BackingField: ATK
+  modifierData:
+  - statModifier: {fileID: 11400000, guid: c4035d850cb10fd4b874ffebdcc372fb, type: 2}
+    value: 2
