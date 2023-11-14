@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5450b542611447f4c850e6eca23ac7fb, type: 3}
+  m_Name: BlessCardInventory
+  m_EditorClassIdentifier: 
+  invenCards:
+  - card: {fileID: 11400000, guid: 6039d926cca138a4581ab3ff1af539bd, type: 2}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
+  - card: {fileID: 0}
+    quantity: 0
